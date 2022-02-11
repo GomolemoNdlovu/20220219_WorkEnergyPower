@@ -1,0 +1,11 @@
+Friction Force
+2
+Tire and pavement
+3
+Normal force
+9.8
+0.8
+Newton’s 3rd Law
+m
+Slows down the motion
+xxxxx

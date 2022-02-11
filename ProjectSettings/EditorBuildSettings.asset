@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene1_CompanySplash.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scene2_AppSplash.unity
+    guid: 13321094d6cacdc4296e7335e40592c6
+  - enabled: 1
+    path: Assets/Scenes/Scene3_MainMenu.unity
+    guid: 35419d70565b5744baac4176d65dadc0
+  - enabled: 1
+    path: Assets/Scenes/Scene4_Instruction.unity
+    guid: 6606c633752864b46a542f452d03a981
+  - enabled: 1
+    path: Assets/Scenes/Scene5_ExaplanationVidScene.unity
+    guid: e1c289fdbfea783418495afd41c3ef1e
+  - enabled: 1
+    path: Assets/Scenes/Scene6_Selections.unity
+    guid: 18b80d11104f97e48adfe805c65ebb6e
+  - enabled: 1
+    path: Assets/Scenes/Scene7_Simulation.unity
+    guid: c0b252312b2e6a7428d8b6eaad0105b9
+  - enabled: 1
+    path: Assets/Scenes/Scene8_Questions.unity
+    guid: be5ebbd4664c79f41afc35dc268ecbc4
+  m_configObjects: {}

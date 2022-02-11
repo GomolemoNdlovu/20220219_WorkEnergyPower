@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1943233490650987724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1943233490650987722}
+  - component: {fileID: 1943233490650987723}
+  - component: {fileID: 1943233490650987721}
+  m_Layer: 0
+  m_Name: ToSim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1943233490650987722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943233490650987724}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 534.75696, y: 176.13304, z: -291.875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1943233490650987723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943233490650987724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7596bc32bfe0b640a6114d065feba81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  size: 0
+  driveType: 
+  speed: 0
+  incline: 180
+  addMass: 1
+  dTrain: 0
+  checkIncline180: 0
+  checkIncline30: 0
+  checkIncline45: 0
+  maxMotorTorque: 120
+--- !u!114 &1943233490650987721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943233490650987724}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 105e3316feb448144b52e8aa0c9cc260, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: {fileID: 0}
+  maxSteerAngle: 45
+  wheelFL: {fileID: 0}
+  wheelFR: {fileID: 0}
+  wheelRL: {fileID: 0}
+  wheelRR: {fileID: 0}
+  currentSpeed: 0
+  maxSpeed: 1500
+  centerOfMass: {x: 0, y: 0, z: 0}
+  rb: {fileID: 0}
+  originalPos: {x: 0, y: 0, z: 0}
+  wheelOGPos: {x: 0, y: 0, z: 0}
+  test: 1
+  Simmer: {fileID: 0}
+  checkIncline180Stat: 0
+  checkIncline30Stat: 0
+  checkIncline45Stat: 0
+  goToSim: {fileID: 1943233490650987723}
+  objInclines180: {fileID: 0}
+  objInclines30: {fileID: 0}
+  objInclines45: {fileID: 0}
+  objSmokeFL: {fileID: 0}
+  objSmokeFR: {fileID: 0}
+  objSmokeRL: {fileID: 0}
+  objSmokeRR: {fileID: 0}
+  objAddedMass: {fileID: 0}
+  inclineGTS: 0
+  addMassGTS: 0
+  driveTrainGTS: 0
+  speedGTS: 0
+  torqueGTS: 0
+  fltMass: 0

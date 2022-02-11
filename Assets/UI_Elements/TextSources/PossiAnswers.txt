@@ -1,0 +1,45 @@
+Gravitational Force
+Friction Force
+Applied Force
+Tension Force
+3
+6
+2
+1
+Tire and pavement
+Tire and grass
+wood and pavement
+wood and grass
+4
+3
+2
+5
+Normal force
+Applied Force
+Tension Force
+Gravitational Force
+9.7
+9.8
+9.6
+9.9
+0.7
+0.8
+0.9
+0.6
+Newton’s 3rd Law
+Newton’s 1st Law
+Newton’s 2nd Law
+None of the above
+m
+z
+f
+u
+Nothing happens
+Increase the motion
+Slows down the motion
+A complete stop
+xxxxx
+xxxxx
+xxxxx
+xxxxx
+
